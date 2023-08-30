@@ -1,6 +1,6 @@
 {
   "name": "shenmuwangluo/yun-zuo-thinkcmf",
-  "description": "云左基本api接口",
+  "description": "云左基本api接口222",
   "autoload": {
     "psr-4": {
       "Shenmuwangluo\\YunZuoThinkcmf\\": "src/"
