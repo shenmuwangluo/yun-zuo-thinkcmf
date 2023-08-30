@@ -1,0 +1,24 @@
+{
+  "name": "shenmuwangluo/yun-zuo-thinkcmf",
+  "description": "云左基本api接口",
+  "autoload": {
+    "psr-4": {
+      "Shenmuwangluo\\YunZuoThinkcmf\\": "src/"
+    }
+  },
+  "keywords": [
+    "云左",
+    "ERP",
+    "thinkcmf",
+    "thinkHph",
+    "工科院"
+  ],
+  "authors": [
+    {
+      "name": "李国铃"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
